@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+    
+
+}
+ 
+ html {
+ 	position: relative;
+ 	padding: 50px;
+}
+
+body{
+	background: ;
+}
+ #crystals {
+	font-size: 20px;
+    font-family: "Times New Roman", Georgia, Serif;
+    border: 2px solid lightblue;
+    width: 950px;
+    height: 700px;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 25px;
+    background-color: pink;
+
+}
